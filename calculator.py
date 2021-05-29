@@ -4,3 +4,6 @@ def add(a,b):
 # 뺴기
 def sub(a,b):
 	return a-b
+#곱하기
+def sub(a,b):
+	return a*b
